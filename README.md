@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on youtube channel
-- 🌱 I’m currently learning data structure and algorithms, runt
+- 🌱 I’m currently learning data structure and algorithms
 
 - 💬 Ask me about anything
 
