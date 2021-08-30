@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🔭 I’m currently working on youtube channel
 -->
-- 🔭 I’m currently working on youtube channel
+- 🔭 I’m currently working as instructor at bootcamp
 - 🌱 I’m currently learning data structure and algorithms
 
 - 💬 Ask me about anything
