@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as instructor in full stack development bootcamp
 - 🌱 I’m currently learning data structure and algorithms
 
-- 💬 Ask me about anything
+- 💬 Ask me about javascript, react & node.js
 
 
 
